@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,8 +26,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
