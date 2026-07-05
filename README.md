@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -51,9 +52,22 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
