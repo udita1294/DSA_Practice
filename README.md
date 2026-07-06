@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udita1294/DSA_Practice/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udita1294/DSA_Practice/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
