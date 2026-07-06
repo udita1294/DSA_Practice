@@ -13,6 +13,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/udita1294/DSA_Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udita1294/DSA_Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 ## Binary Search
@@ -95,4 +97,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udita1294/DSA_Practice/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
