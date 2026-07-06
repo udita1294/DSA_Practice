@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/udita1294/DSA_Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udita1294/DSA_Practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
