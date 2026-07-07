@@ -12,6 +12,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udita1294/DSA_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions
 | [0027-remove-element](https://github.com/udita1294/DSA_Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
