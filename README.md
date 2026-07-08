@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udita1294/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
