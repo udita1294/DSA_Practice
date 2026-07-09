@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions
 | [0278-first-bad-version](https://github.com/udita1294/DSA_Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
