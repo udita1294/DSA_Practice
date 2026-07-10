@@ -152,4 +152,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/udita1294/DSA_Practice/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
