@@ -49,6 +49,7 @@ A collection of LeetCode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/udita1294/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/udita1294/DSA_Practice/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/udita1294/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udita1294/DSA_Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/udita1294/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/udita1294/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udita1294/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
