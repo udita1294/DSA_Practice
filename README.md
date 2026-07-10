@@ -117,6 +117,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/udita1294/DSA_Practice/tree/master/0169-majority-element) |
 ## Counting
@@ -166,6 +168,7 @@ A collection of LeetCode questions
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udita1294/DSA_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/udita1294/DSA_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udita1294/DSA_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udita1294/DSA_Practice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -176,4 +179,8 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
