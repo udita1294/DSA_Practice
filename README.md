@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Sorting
 |  |
