@@ -152,6 +152,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udita1294/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
