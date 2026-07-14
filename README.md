@@ -114,6 +114,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 ## Heap (Priority Queue)
@@ -124,6 +125,7 @@ A collection of LeetCode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -204,4 +206,12 @@ A collection of LeetCode questions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/udita1294/DSA_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/udita1294/DSA_Practice/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
