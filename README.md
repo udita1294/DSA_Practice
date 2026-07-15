@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | ------- |
 | [0069-sqrtx](https://github.com/udita1294/DSA_Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
 ## Merge Sort
 |  |
 | ------- |
@@ -214,4 +216,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
