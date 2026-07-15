@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
