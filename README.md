@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0055-jump-game](https://github.com/udita1294/DSA_Practice/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/udita1294/DSA_Practice/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udita1294/DSA_Practice/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions
 | [0011-container-with-most-water](https://github.com/udita1294/DSA_Practice/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/udita1294/DSA_Practice/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/udita1294/DSA_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
