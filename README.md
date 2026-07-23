@@ -56,6 +56,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/udita1294/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -210,6 +213,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/udita1294/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/udita1294/DSA_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 ## Interactive
 |  |
 | ------- |
