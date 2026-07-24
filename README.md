@@ -136,6 +136,7 @@ A collection of LeetCode questions
 | [0881-boats-to-save-people](https://github.com/udita1294/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0991-broken-calculator](https://github.com/udita1294/DSA_Practice/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
 ## Dynamic Programming
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0991-broken-calculator](https://github.com/udita1294/DSA_Practice/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/udita1294/DSA_Practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udita1294/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
