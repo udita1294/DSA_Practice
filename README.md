@@ -46,6 +46,7 @@ A collection of LeetCode questions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions
 | [0991-broken-calculator](https://github.com/udita1294/DSA_Practice/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Dynamic Programming
 |  |
 | ------- |
