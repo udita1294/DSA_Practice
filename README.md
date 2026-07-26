@@ -48,6 +48,7 @@ A collection of LeetCode questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/udita1294/DSA_Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/udita1294/DSA_Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3536-maximum-product-of-two-digits](https://github.com/udita1294/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -148,6 +150,7 @@ A collection of LeetCode questions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/udita1294/DSA_Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Dynamic Programming
 |  |
 | ------- |
