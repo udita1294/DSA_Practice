@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
 ## Depth-First Search
 |  |
