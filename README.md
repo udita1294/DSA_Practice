@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0088-merge-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/udita1294/DSA_Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/udita1294/DSA_Practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/udita1294/DSA_Practice/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/udita1294/DSA_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udita1294/DSA_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions
 | [0045-jump-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/udita1294/DSA_Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/udita1294/DSA_Practice/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/udita1294/DSA_Practice/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
