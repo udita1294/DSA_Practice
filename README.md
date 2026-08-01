@@ -34,6 +34,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Breadth-First Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions
 | [0069-sqrtx](https://github.com/udita1294/DSA_Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/udita1294/DSA_Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0991-broken-calculator](https://github.com/udita1294/DSA_Practice/tree/master/0991-broken-calculator) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions
 | [0021-merge-two-sorted-lists](https://github.com/udita1294/DSA_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/udita1294/DSA_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 ## Merge Sort
 |  |
 | ------- |
@@ -375,4 +379,8 @@ A collection of LeetCode questions
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/udita1294/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
