@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/udita1294/DSA_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [0976-largest-perimeter-triangle](https://github.com/udita1294/DSA_Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/udita1294/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/udita1294/DSA_Practice/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/udita1294/DSA_Practice/tree/master/0881-boats-to-save-people) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/udita1294/DSA_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 ## Graph Theory
 |  |
 | ------- |
