@@ -109,6 +109,7 @@ A collection of LeetCode questions
 | [0948-bag-of-tokens](https://github.com/udita1294/DSA_Practice/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/udita1294/DSA_Practice/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udita1294/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/udita1294/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udita1294/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/udita1294/DSA_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
