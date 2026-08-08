@@ -41,6 +41,7 @@ A collection of LeetCode questions
 | [0605-can-place-flowers](https://github.com/udita1294/DSA_Practice/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udita1294/DSA_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/udita1294/DSA_Practice/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/udita1294/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/udita1294/DSA_Practice/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/udita1294/DSA_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Graph Theory
 |  |
 | ------- |
@@ -460,4 +463,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
