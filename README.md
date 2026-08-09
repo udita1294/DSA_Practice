@@ -205,6 +205,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/udita1294/DSA_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/udita1294/DSA_Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udita1294/DSA_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/udita1294/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/udita1294/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/udita1294/DSA_Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/udita1294/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/udita1294/DSA_Practice/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/udita1294/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
