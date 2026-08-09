@@ -440,10 +440,12 @@ A collection of LeetCode questions
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 ## Longest Increasing Subsequence
 |  |
