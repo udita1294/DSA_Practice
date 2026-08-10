@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/udita1294/DSA_Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/udita1294/DSA_Practice/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/udita1294/DSA_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions
 | [0131-palindrome-partitioning](https://github.com/udita1294/DSA_Practice/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/udita1294/DSA_Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
