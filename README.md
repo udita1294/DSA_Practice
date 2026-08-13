@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/udita1294/DSA_Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/udita1294/DSA_Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/udita1294/DSA_Practice/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udita1294/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Nim Game
 |  |
 | ------- |
@@ -505,4 +508,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
