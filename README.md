@@ -218,6 +218,7 @@ A collection of LeetCode questions
 | [0300-longest-increasing-subsequence](https://github.com/udita1294/DSA_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/udita1294/DSA_Practice/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/udita1294/DSA_Practice/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/udita1294/DSA_Practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/udita1294/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/udita1294/DSA_Practice/tree/master/0486-predict-the-winner) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions
 | ------- |
 | [0136-single-number](https://github.com/udita1294/DSA_Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/udita1294/DSA_Practice/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/udita1294/DSA_Practice/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/udita1294/DSA_Practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Number Theory
 |  |
