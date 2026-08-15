@@ -440,6 +440,7 @@ A collection of LeetCode questions
 | [0338-counting-bits](https://github.com/udita1294/DSA_Practice/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/udita1294/DSA_Practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/udita1294/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/udita1294/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
