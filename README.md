@@ -63,6 +63,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/udita1294/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/udita1294/DSA_Practice/tree/master/1834-single-threaded-cpu) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/udita1294/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/udita1294/DSA_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Breadth-First Search
@@ -316,6 +318,7 @@ A collection of LeetCode questions
 | [1323-maximum-69-number](https://github.com/udita1294/DSA_Practice/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions
 | [1140-stone-game-ii](https://github.com/udita1294/DSA_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Minimax
