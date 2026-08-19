@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [1310-xor-queries-of-a-subarray](https://github.com/udita1294/DSA_Practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/udita1294/DSA_Practice/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/udita1294/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/udita1294/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/udita1294/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/udita1294/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/udita1294/DSA_Practice/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/udita1294/DSA_Practice/tree/master/1048-longest-string-chain) |
+| [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/udita1294/DSA_Practice/tree/master/2405-optimal-partition-of-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions
 | [0991-broken-calculator](https://github.com/udita1294/DSA_Practice/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/udita1294/DSA_Practice/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/udita1294/DSA_Practice/tree/master/1328-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions
 | [1310-xor-queries-of-a-subarray](https://github.com/udita1294/DSA_Practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/udita1294/DSA_Practice/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/udita1294/DSA_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/udita1294/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
