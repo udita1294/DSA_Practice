@@ -78,6 +78,7 @@ A collection of LeetCode questions
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/udita1294/DSA_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udita1294/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udita1294/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/udita1294/DSA_Practice/tree/master/3731-find-missing-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions
 | [0875-koko-eating-bananas](https://github.com/udita1294/DSA_Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/udita1294/DSA_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/udita1294/DSA_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/udita1294/DSA_Practice/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/udita1294/DSA_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/udita1294/DSA_Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -461,11 +464,13 @@ A collection of LeetCode questions
 | [1386-cinema-seat-allocation](https://github.com/udita1294/DSA_Practice/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/udita1294/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/udita1294/DSA_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/udita1294/DSA_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/udita1294/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -552,4 +557,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
