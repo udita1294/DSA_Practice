@@ -214,6 +214,7 @@ A collection of LeetCode questions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/udita1294/DSA_Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/udita1294/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/udita1294/DSA_Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/udita1294/DSA_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/udita1294/DSA_Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/udita1294/DSA_Practice/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1768-merge-strings-alternately](https://github.com/udita1294/DSA_Practice/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/udita1294/DSA_Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/udita1294/DSA_Practice/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/udita1294/DSA_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions
 | [1406-stone-game-iii](https://github.com/udita1294/DSA_Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/udita1294/DSA_Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/udita1294/DSA_Practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/udita1294/DSA_Practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/udita1294/DSA_Practice/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/udita1294/DSA_Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Minimax
