@@ -1,106 +1,65 @@
 class Solution {
 public:
-    string makePalindrome(string half, char mid) {
-        string res = half;
-        if (mid != '#')
-            res += mid;
-        for (int i = half.size() - 1; i >= 0; i--)
-            res += half[i];
-        return res;
+    int halflen = 0;
+    char midChar = '$';
+    string result = "";
+    bool solve(string &curr,vector<int>&count,string target,int i,bool greater){
+        if(curr.length() == halflen){
+            string candidate = curr;
+            string righthalf = curr;
+            reverse(righthalf.begin(),righthalf.end());
+
+            if(midChar != '$'){
+                candidate += midChar;
+            }
+            candidate += righthalf;
+            if(candidate > target){
+                result = candidate;
+                return true;
+            }
+            return false;
+        }
+        for(char ch = 'a';ch <= 'z';ch++){
+            if(count[ch - 'a'] == 0)continue;
+            if(!greater && ch < target[i])continue;
+
+            //do
+            curr.push_back(ch);
+            count[ch-'a']--;
+
+            //explore
+            bool isGreater = greater || ch > target[i];
+            if(solve(curr,count,target,i+1,isGreater)){
+                return true;
+            }
+            //undo
+            curr.pop_back();
+            count[ch-'a']++;
+        }
+        return false;
     }
     string lexPalindromicPermutation(string s, string target) {
         int n = s.size();
-        // Count characters
-        vector<int> cnt(26, 0);
-        for (char c : s)
-            cnt[c - 'a']++;
-        // Check whether a palindrome is possible
-        int odd = 0;
-        char mid = '#';
-        for (int i = 0; i < 26; i++) {
-            if (cnt[i] % 2) {
-                odd++;
-                mid = char('a' + i);
+        vector<int>count(26,0);
+        for(char &ch : s){
+            count[ch - 'a']++;
+        }
+        int oddCount = 0;
+        for(int c=0;c<26;c++){
+            if(count[c] % 2 == 1){
+                oddCount++;
+                midChar = c + 'a';
             }
         }
-        if (odd > 1)
-            return "";
-        // Characters available in the first half
-        vector<int> halfCnt(26);
-        for (int i = 0; i < 26; i++)
-            halfCnt[i] = cnt[i] / 2;
-        int m = n / 2;
-        string ans = "";
-        /*
-            Try every position where our palindrome
-            becomes greater than target.
-
-            Positions before 'pos' are equal to target.
-            At 'pos', choose the smallest character
-            greater than target[pos].
-        */
-        for (int pos = 0; pos < m; pos++) {
-            vector<int> rem = halfCnt;
-            string half;
-            bool possible = true;
-            // Match target prefix
-            for (int i = 0; i < pos; i++) {
-                int x = target[i] - 'a';
-                if (rem[x] == 0) {
-                    possible = false;
-                    break;
-                }
-                half += target[i];
-                rem[x]--;
-            }
-            if (!possible)
-                continue;
-            // Make the first different character larger
-            for (int c = target[pos] - 'a' + 1; c < 26; c++) {
-                if (rem[c] == 0)
-                    continue;
-                string h = half;
-                h += char('a' + c);
-                rem[c]--;
-                // Fill remaining half with smallest characters
-                for (int x = 0; x < 26; x++) {
-                    h += string(rem[x], char('a' + x));
-                }
-                string pal = makePalindrome(h, mid);
-                if (pal > target) {
-                    if (ans.empty() || pal < ans)
-                        ans = pal;
-                }
-                rem[c]++;
-            }
+        if(oddCount > 1){
+            return "" ;// not possible to create palindrome
         }
-        /*
-            Also check the palindrome whose first half
-            is exactly equal to target's first half.
-
-            The second half / middle may make it greater.
-        */
-        {
-            vector<int> rem = halfCnt;
-            string half;
-            bool possible = true;
-            for (int i = 0; i < m; i++) {
-                int x = target[i] - 'a';
-                if (rem[x] == 0) {
-                    possible = false;
-                    break;
-                }
-                half += target[i];
-                rem[x]--;
-            }
-            if (possible) {
-                string pal = makePalindrome(half, mid);
-                if (pal > target) {
-                    if (ans.empty() || pal < ans)
-                        ans = pal;
-                }
-            }
+        halflen = n/2;
+        for(int c=0;c<26;c++){
+            count[c] /= 2;
         }
-        return ans;
+        string curr;
+        solve(curr,count,target,0,false);
+        return result;
     }
 };
