@@ -83,6 +83,7 @@ A collection of LeetCode questions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udita1294/DSA_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udita1294/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udita1294/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/udita1294/DSA_Practice/tree/master/3731-find-missing-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/udita1294/DSA_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/udita1294/DSA_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/udita1294/DSA_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/udita1294/DSA_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/udita1294/DSA_Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/udita1294/DSA_Practice/tree/master/3731-find-missing-elements) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions
 | [0226-invert-binary-tree](https://github.com/udita1294/DSA_Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/udita1294/DSA_Practice/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/udita1294/DSA_Practice/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -311,6 +314,7 @@ A collection of LeetCode questions
 | ------- |
 | [0200-number-of-islands](https://github.com/udita1294/DSA_Practice/tree/master/0200-number-of-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/udita1294/DSA_Practice/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -493,6 +497,7 @@ A collection of LeetCode questions
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/udita1294/DSA_Practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/udita1294/DSA_Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/udita1294/DSA_Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/udita1294/DSA_Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/udita1294/DSA_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
